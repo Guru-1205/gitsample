@@ -1,2 +1,2 @@
-hello from sampleBranch2
-heyy from sampleBranch2
+hello from sampleBranch1
+heyy from sampleBranch1
