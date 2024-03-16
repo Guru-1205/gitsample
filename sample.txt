@@ -1,2 +1,2 @@
-hello from sampleBranch1
+hello from sampleBranch2
 heyy
